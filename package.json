@@ -1,0 +1,23 @@
+{
+  "name": "chat-draw-sockets",
+  "version": "1.0.0",
+  "description": "A node app that uses sockets to make a drawing and chat app in real time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaplaugher/chat-draw.git"
+  },
+  "keywords": [
+    "socketio",
+    "nodejs"
+  ],
+  "author": "Kyle Plaugher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kaplaugher/chat-draw/issues"
+  },
+  "homepage": "https://github.com/Kaplaugher/chat-draw#readme"
+}
